@@ -9,7 +9,7 @@ In this project we used the terminal to execute some commands to move around the
 Here is my *Working With Files and Folders* challenge solution
 
 
-**Challenge
+**Challenge**
 
 Let's practice our new skills by creating and organising a new folder in a Gitpod workspace. To complete the challenge you need to create and organise the folder from the command line only! Here are the steps you need to follow:
 
