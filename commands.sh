@@ -69,7 +69,7 @@ ls
 
 
 
-# Open nano with a new file called `hello.txt`
+# Open nano with a new file called `hello.txt` !!!NEW CONCEPT
 nano hello.txt
 
 # View the contents of the `hello.txt` file
@@ -80,3 +80,30 @@ touch world.txt
 
 # View the differences between `hello.txt` and `world.txt`
 diff hello.txt world.txt
+
+# Show the absolute path to the `README.md` file
+readlink -f README.md
+
+
+### The commands that are used in the `Things To Watch Out For` video
+
+# Create two folders - `hello` and `world`
+mkdir hello world
+
+# Delete each directory
+rm -rf hello
+rm -rf world
+
+# Or, delete both at once
+rm -rf hello world
+
+# Create two files - `hello` and `world.txt`
+nano hello world.txt
+
+# Delete each file
+rm hello
+rm world.txt
+
+# Or, delete both at once
+rm hello world.txt
+
