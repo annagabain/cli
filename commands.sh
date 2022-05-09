@@ -27,6 +27,21 @@ cd ..
 # Change into the workspace directory (if it exists inside of the current working directory)
 cd workspace
 
+#create directory
 mkdir
+
+#create file
 touch
+
+#remove/delete file
+rm
+
+#delete directory DANGEROUS!!!
+rm-rf
+
+#copy
 cp
+
+#move or rename
+mv
+
