@@ -8,6 +8,8 @@ In this project we used the terminal to execute some commands to move around the
 
 Here is my *Working With Files and Folders* challenge solution
 
+<img src="https://raw.githubusercontent.com/annagabain/cli/main/Working%20With%20Files%20and%20Folders%20Challenge.png">
+
 
 **Challenge**
 
@@ -27,4 +29,4 @@ Let's practice our new skills by creating and organising a new folder in a Gitpo
 
 -If you have completed the challenge by running the correct commands, you should be left with a single file in your workspace called css.txt
 
-<img src="https://raw.githubusercontent.com/annagabain/cli/main/Working%20With%20Files%20and%20Folders%20Challenge.png">
+
