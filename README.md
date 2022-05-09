@@ -6,4 +6,4 @@ This is our first look at the command-line interface. The command-line interface
 
 In this project we used the terminal to execute some commands to move around the file system and create, modify and delete files and folders.
 
-
+<img src="https://raw.githubusercontent.com/annagabain/cli/main/Working%20With%20Files%20and%20Folders%20Challenge.png">
