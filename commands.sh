@@ -1,4 +1,4 @@
-# The commands that are used in the `Running Basic Commands` video
+### The commands that are used in the `Running Basic Commands` video
 
 # Print out "Hello World"
 echo Hello World
@@ -45,6 +45,38 @@ cp
 #move or rename
 mv
 
-#not sure which one I used, but it worked to synchronize changes on GitHub and Gitpod
-git merge
+#to synchronize changes on GitHub and Gitpod
 git fetch
+git merge
+
+
+
+### The solution the challenge in the `Working With Files And Folders` unit
+# Create a new folder called `codingLanguages`
+mkdir codingLanguages
+# Create a new file called `html.txt`
+touch html.txt
+# Create a new file called `css.txt`
+touch css.txt
+# Move `html.txt` into `codingLanguages`
+mv html.txt codingLanguages
+# Copy `css.txt` in `codingLanguages`
+cp css.txt codingLanguages
+# Delete the `codingLanguages` directory
+rm -rf codingLanguages
+# Verify that there is still a `css.txt` file, but no `html.txt` file, or `codingLanguages` directory
+ls
+
+
+
+# Open nano with a new file called `hello.txt`
+nano hello.txt
+
+# View the contents of the `hello.txt` file
+cat hello.txt
+
+# Create the `world.txt` file
+touch world.txt
+
+# View the differences between `hello.txt` and `world.txt`
+diff hello.txt world.txt
