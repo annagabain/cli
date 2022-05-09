@@ -27,3 +27,6 @@ cd ..
 # Change into the workspace directory (if it exists inside of the current working directory)
 cd workspace
 
+mkdir
+touch
+cp
