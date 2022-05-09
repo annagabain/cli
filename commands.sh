@@ -45,3 +45,6 @@ cp
 #move or rename
 mv
 
+#not sure which one I used, but it worked to synchronize changes on GitHub and Gitpod
+git merge
+git fetch
